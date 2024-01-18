@@ -1,6 +1,6 @@
 {
   "name": "tail-cn",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple conditional TailwindCSS class utility with built in tailwind merge support, it's tiny, and fast!",
   "main": "lib/tw.js",
   "files": [
